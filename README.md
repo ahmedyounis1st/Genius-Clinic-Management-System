@@ -6,4 +6,6 @@ The main objective of the project is to manage the details of patient, appointme
 + Visual Studio
 + Text Files as database
 
+<a href="https://www.instagram.com/tv/Cci8kHbFREC/?utm_source=ig" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 Demo Video URL: https://www.instagram.com/tv/Cci8kHbFREC/?utm_source=ig
